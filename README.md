@@ -18,8 +18,6 @@
 
 ### 💻 Skills
 
-### 💻 Skills
-
 <p align="left">
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
@@ -39,7 +37,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
 </p>
 
-
 ---
 
 ### 🌐 Connect With Me
@@ -58,6 +55,29 @@
 
 ---
 
+## ⭐ Top Projects
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Diksha85/Discussion-Portal">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diksha85&repo=Discussion-Portal&theme=radical" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Diksha85/Todo-With-Express">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diksha85&repo=Todo-With-Express&theme=radical" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Diksha85/Stopwatch-App">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diksha85&repo=Stopwatch-App&theme=radical" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
