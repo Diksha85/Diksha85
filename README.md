@@ -66,14 +66,14 @@
     </td>
     <td>
       <a href="https://github.com/Diksha85/Express-Todo-App">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diksha85&repo=Todo-With-Express&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diksha85&repo=Express-Todo-App&theme=radical" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/Diksha85/StopWatch">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diksha85&repo=Stopwatch-App&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diksha85&repo=StopWatch&theme=radical" />
       </a>
     </td>
   </tr>
