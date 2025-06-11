@@ -65,14 +65,14 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/Diksha85/Todo-With-Express">
+      <a href="https://github.com/Diksha85/Express-Todo-App">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diksha85&repo=Todo-With-Express&theme=radical" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Diksha85/Stopwatch-App">
+      <a href="https://github.com/Diksha85/StopWatch">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diksha85&repo=Stopwatch-App&theme=radical" />
       </a>
     </td>
