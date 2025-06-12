@@ -8,7 +8,7 @@
 
 ### 📍 About Me
 
-- 🎓 Pursuing **BCA** at CodeQuotient School of Technology  
+- 🎓 Pursuing **BCA** at Maharaja Agrasen Institute of Management and Technology || CodeQuotient School of Technology  
 - 🌏 Based in **India**  
 - 🧠 Currently learning: `Node.js`, `MongoDB`  
 - 🧩 Passionate about building dynamic UIs and full-stack web apps  
